@@ -1,0 +1,32 @@
+.header > div{
+    float: left;
+    margin-left: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 200px;
+    width: 200px;
+    line-height: 200px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #ca3c3c;
+    font-size: 30px;
+    font-weight: 600;
+    text-decoration: none
+}
+
+.header a{
+    text-decoration: none;
+    color: black;
+}
+
+.header>div:hover{
+    height: 210px;
+    width: 210px;
+    border-radius: 50%;
+    line-height: 210px;
+    text-align: center;
+    margin-left: 30px;
+    font-size: 35px;
+    margin-bottom: 40px;
+}
+
